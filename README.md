@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viet Anh</h1>
-<h3 align="center">This is a very professional profile</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Information & Technology at Hanoi University of Science and Technology**
 
