@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viet Anh</h1>
-<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Information & Technology at Hanoi University of Science and Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
