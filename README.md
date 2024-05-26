@@ -1,9 +1,8 @@
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/vietanhng05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietanhng05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vietanhm6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vietanhm6a" height="30" width="40" /></a>
-</p>
-
-
+- 👋 Hi, I’m Vietanh.
+- 🌱 I’m currently learning Information & Technology at Hanoi University of Science and Technology
+- 📫 How to reach me :
+-   Facebook: https://www.facebook.com/VietAnhNg05/
+<!---
+Vanh41/Vanh41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
